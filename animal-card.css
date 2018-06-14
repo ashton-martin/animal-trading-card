@@ -1,0 +1,60 @@
+/* add your CSS here */
+body {
+   background: url(http://i739.photobucket.com/albums/xx34/dogs2luv/background-ocean.jpg) no-repeat center center;
+  font-family: 'poppins', 'arimo', verdana;
+  font-size: 11px;
+  background-size: cover;
+  height: 100%;
+  overflow: visible;
+
+}
+
+#container {
+  text-align: center;
+  width:320px;
+  border-width: thick;
+  border-style: solid;
+  border-color: #120035;
+  padding: 30px;
+  background: url(https://cdn.nickpic.host/images/pujZRW.jpg);
+  -webkit-box-shadow: 10px 10px 23px 2px rgba(0,0,0,0.48);
+  -moz-box-shadow: 10px 10px 23px 2px rgba(0,0,0,0.48);
+  box-shadow: 10px 10px 23px 2px rgba(0,0,0,0.48);
+}
+
+#card {
+  width:270px;
+  text-align: left;
+  border-style: solid;
+  border-radius: 20px;
+  background: #8AC0FF;
+  border-color: #291F2A;
+  padding: 20px;
+}
+#interesting-fact {
+  font-style: italic;
+}
+
+#facts {
+  font-family: 'poppins', 'arimo', verdana;
+  font-size: 11px;
+  text-align: left;
+  list-style-type: none;
+}
+
+span {
+  font-weight: bold;
+}
+
+h1 {
+  color: #8AC0FF;
+  font-size: xx-large;
+  font-family: 'arial';
+  line-height: 16px;
+}
+
+img {
+  padding:6px;
+   border-radius: 20px;
+   border-color: #291F2A;
+}
